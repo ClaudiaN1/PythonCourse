@@ -16,4 +16,5 @@ while chosen_exit not in available_exits:
         print("Game over")
         break
 
-print("aren't you got out of there")
+else:
+    print("aren't you got out of there")
